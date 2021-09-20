@@ -9,7 +9,7 @@
 
 - The app is built at that point.  
 
-### `"mvn spring-boot:run"`
+### `mvn spring-boot:run`
 
 Open [http://localhost:8000](http://localhost:8000) to view it in the browser. You will see "Welcome to the PwC Digital Test Application page".
 
